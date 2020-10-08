@@ -1,0 +1,29 @@
+/*  font-family: Abel  */
+@font-face {
+    font-family: Lobster;
+    src: url('../Fonts/Lobster/Lobster-Regular.ttf');
+}
+
+/*  font-family: Anton  */
+@font-face {
+    font-family: Patrick_Hand;
+    src: url('../Fonts/Patrick_Hand/PatrickHand-Regular.ttf');
+}
+
+/*  font-family: Josefin  */
+@font-face {
+    font-family: Josefin_Sans;
+    src: url('../Fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf');
+}
+
+/*  font-family: Lexend  */
+@font-face {
+    font-family: Philosopher;
+    src: url('../Fonts/Philosopher/Philosopher-Regular.ttf');
+}
+
+/*  font-family: Livvic  */
+@font-face {
+    font-family: Roboto_Slab;
+    src: url('../Fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf');
+}
